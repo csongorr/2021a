@@ -1,0 +1,10 @@
+body {
+    background-image: url('kepek/hatter.png');
+    color: yellow;
+}
+.maintext 
+{
+    text-align: center;
+    font-size: 300px;
+    font-weight: bold;
+}
